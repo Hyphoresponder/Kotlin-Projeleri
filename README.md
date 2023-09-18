@@ -5,10 +5,10 @@ kotlin-projeleri
 
 Kotlin için çeşitli örnekler [Kotlin](https://kotlinlang.org/)
 
-Eksik veya kafa karıştırıcı görünen bir şey varsa lütfen sorun oluşturun [Kotlin](https://youtrack.jetbrains.com/newIssue?project=KT&c=Type%20Task&c=Subsystems%20Docs%20%26%20Examples&c=Assignee%20dmitry.romanov)
+Eksik veya anlayamadığınız bir şey varsa lütfen bildirin [Kotlin](https://youtrack.jetbrains.com/newIssue?project=KT&c=Type%20Task&c=Subsystems%20Docs%20%26%20Examples&c=Assignee%20dmitry.romanov)
 
 [Kotlin Çoklu Platform Mobil](https://kotlinlang.org/lp/mobile/):
-- https://github.com/Kotlin/kmm-production-sample - Bu, Kotlin Multiplatform Mobile (KMM) ile oluşturulmuş açık kaynaklı, mobil, platformlar arası bir uygulamadır. Basit bir RSS okuyucudur ve şu adresten indirebilirsiniz: [App Store](https://apps.apple.com/ru/app/kmm-rss-reader/id1563922264) ve [Google Play](https://play.google.com/store/apps/details?id=com.github.jetbrains.rssreader.androidApp). KMM'nin gerçek üretim projelerinde nasıl kullanılabileceğini göstermek için tasarlandı.
+- https://github.com/Kotlin/kmm-production-sample - Bu, Kotlin Multiplatform Mobile (KMM) ile oluşturulmuş açık kaynaklı, mobile ve platformlar arası bir uygulamadır. Basit bir RSS okuyucudur ayrıyeten şu adresten indirebilirsiniz: [App Store](https://apps.apple.com/ru/app/kmm-rss-reader/id1563922264) ve [Google Play](https://play.google.com/store/apps/details?id=com.github.jetbrains.rssreader.androidApp). KMM'nin gerçek üretim projelerinde nasıl kullanılabileceğini göstermek için tasarlandı.
 - https://github.com/Kotlin/kmm-basic-sample - Bu bir Kotlin Multiplatform Mobile (KMM) örnek projesidir. Yerel bir kullanıcı arayüzüne sahip iOS ve Android uygulamalarını ve iOS ve Android'de paylaşılan kodlara sahip bir modülü içerir.
 - https://github.com/Kotlin/kmm-integration-sample - Bu şu isimli bir örnektir ["Android uygulamanızın iOS'ta çalışmasını sağlayın"](https://kotlinlang.org/docs/mobile/integrate-in-existing-app.html) Master Branch, projenin başlangıç ​​durumunu içerir: Android Studio "Giriş uygulaması" sihirbazıyla oluşturulan basit bir Android uygulamasıdır. iOS uygulaması ve paylaşılan KMM modülü ile son durumu şu adreste bulabilirsiniz: [final branch](https://github.com/Kotlin/kmm-integration-sample/tree/final).
 - https://github.com/Kotlin/kmm-with-cocoapods-sample  - Bu proje, Cocoapod'un Kotlin'e eklendiği ve mevcut bir Xcode projesinin olmadığı durumu temsil eder.
